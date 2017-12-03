@@ -9,3 +9,4 @@ LazyData: true
 ByteCompile: true
 URL: https://github.com/nxskok/thing
 BugReports: https://github.com/nxskok/thing/issues
+RoxygenNote: 6.0.1

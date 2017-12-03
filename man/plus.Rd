@@ -15,7 +15,7 @@ plus(x, y = 2)
 the result of adding the two objects together
 }
 \description{
-\code{plus} returns the sum of the two objects passed in.
+`plus` returns the sum of the two objects passed in.
 }
 \examples{
 plus(5,3)
